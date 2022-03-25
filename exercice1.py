@@ -7,3 +7,5 @@ def characters_count():
 characters_count()
 characters_count()
 characters_count()
+
+print("c'est chouette quand ça marche")
