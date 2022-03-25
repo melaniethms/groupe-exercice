@@ -1,3 +1,4 @@
+print ("Hello, let's play!")
 def characters_count():
     phrase = input("please enter your phrase: ")
     characters_nb = str(len(phrase))
